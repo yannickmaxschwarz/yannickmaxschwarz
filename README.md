@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yannickmaxschwarz
+- 👋 Hi, I’m @yannickmaxschwarz B.Sc Sport Science @ German Sports University Cologne
 - 👀 I’m interested in sport and exercise science with passion for endurance sports
 - 🌱 I’m currently learning GitHub und R
 - 💞️ I’m looking to collaborate on projects revolving around endurance performance in sports
