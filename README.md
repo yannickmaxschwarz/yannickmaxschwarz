@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yannickmaxschwarz B.Sc Sport Science @ German Sports University Cologne
+- 👋 Hi, I’m Yannick Sondermann and PhD student Karlsruhe Intsitute of Technology
 - 👀 I’m interested in sport and exercise science with passion for endurance sports
 - 🌱 I’m currently learning GitHub und R
-- 💞️ I’m looking to collaborate on projects revolving around endurance performance in sports
-- 📫 How to reach me yannick.schwarz14@gmail.com
+- 💞️ I’m happy to collaborate on projects revolving around endurance performance in sports
+- 📫 How to reach me yannick.sondermann@kit.edu
 
 <!---
 yannickmaxschwarz/yannickmaxschwarz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
